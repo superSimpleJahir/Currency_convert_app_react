@@ -27,7 +27,7 @@ function App() {
     <div
       className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
       style={{
-        backgroundImage: `url('https://img.freepik.com/free-photo/online-school-equipment-home_23-2149041148.jpg?w=740&t=st=1701261845~exp=1701262445~hmac=b070d42f257fadb149eeca4776fd919716e4932bda5bed3fe7bca65018ce52b3')`,
+        backgroundImage: `url('https://img.freepik.com/free-vector/gradient-black-background-with-golden-textures_52683-76748.jpg?w=740&t=st=1701264700~exp=1701265300~hmac=46ae5903c99dce274beea78f89237ce041552ed5dbfd5f081a90af9e95816ef4')`,
       }}
     >
       <div className="w-full">
