@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 const useCurrencyInfo = (currency) => {
-  const [data, setData] = useState(null);
+  const [data, setData] = useState({});
 
 
   useEffect(() => {
@@ -15,7 +15,6 @@ const useCurrencyInfo = (currency) => {
 
 
   }, [currency]);
-  console.log(data);
   return data;
 };
 
